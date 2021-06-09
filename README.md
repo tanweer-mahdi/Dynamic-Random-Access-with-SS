@@ -30,3 +30,5 @@ Detects the data of reliable UEs provided by 7. It only considers 4-QPSK at this
 This function calculates Activity Error Rate (AER), Symbol Error Rate (SER) and Net Normalized Mean Square Error (NNMSE)
 
 All functions with the prefix "vary" is baed on above functions. They are written for carrying out Monte Carlo simulations 
+
+This work has been selected for publication in the book "5G and Beyond: The Futuristic IoT".
